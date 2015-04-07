@@ -26,3 +26,8 @@ That smallest i such that $a_i = 1$ is called the total stopping time of n. The 
 If the conjecture is false, it can only be because there is some starting number which gives rise to a sequence that does not contain 1. Such a sequence might enter a repeating cycle that excludes 1, or increase without bound. No such sequence has been found.
 
 
+####Examples
+
+1. Use the routine to show that the hailstone sequence for the number 27 has 112 elements starting with 27, 82, 41, 124 and ending with 8, 4, 2, 1
+2. Show the number less than 100,000 which has the longest hailstone sequence together with that sequence's length.
+(But don't show the actual sequence!)
