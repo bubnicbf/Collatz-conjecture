@@ -2,7 +2,7 @@
 computes the Collatz sequence for a given starting point
 */
 
-function s = collatz ( seed )
+function s = Collatz ( seed )
 
   if ( seed <= 0 )
     s = [];
