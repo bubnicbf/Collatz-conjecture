@@ -2,7 +2,7 @@
 returns the maximum entry in the Collatz sequence for a given starting point 
 */
 
-function m = collatz_max ( seed )
+function m = CollatzMax ( seed )
 
   m = seed;
 
