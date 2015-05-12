@@ -2,7 +2,7 @@
 returns the number of entries in the Collatz sequence for a given starting point
 */
 
-function n = collatz_count ( seed )
+function n = CollatzCount ( seed )
 
   if ( seed <= 0 )
     n = -1;
